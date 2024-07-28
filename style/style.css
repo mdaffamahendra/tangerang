@@ -394,6 +394,10 @@ footer p {
     margin-top: 10px;
     flex: 1;
   }
+
+  #sejarah .left-history figure img {
+    width: 200px;
+  }
 }
 
 /* Mobile */
