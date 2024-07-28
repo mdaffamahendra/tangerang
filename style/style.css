@@ -18,6 +18,7 @@ body {
 }
 
 nav {
+  width: 100%;
   display: flex;
   align-items: center;
   justify-content: space-between;
@@ -385,8 +386,13 @@ footer p {
     margin-top: 0.5rem;
   }
 
+  #sejarah .left-history {
+    flex: 1;
+  }
+
   #sejarah .right-history {
     margin-top: 10px;
+    flex: 1;
   }
 }
 
